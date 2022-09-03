@@ -23,5 +23,5 @@ HTML5
 Bootstrap
 
 ### Task 4: Adding Tasks
-Description
+Description:
 Creating a class to manage the tasks, adding a method to the class to keep track of tasks in the  application, and connecting the New Task form to create tasks.
