@@ -1,4 +1,4 @@
-### The project plan is to design vacation rental application with the following layers:
+### The project plan is to design and create vacation rental application with the following layers:
 ##### Persistence: MySQL Database.
 ##### Backend: REST API with Java and Spring Boot.
 ##### Frontend: JavaScript + CSS + HTML.
@@ -29,3 +29,12 @@ Creating a class to manage the tasks, adding a method to the class to keep track
 ### Task 5: Display The Tasks
 Description:
 Writing the code to display the TaskManager's tasks array on the page
+
+### Task 6: Task Form Inputs Validation
+Description:
+Implement a form that captures the fields required to create a task.
+
+##### Tools
+HTML5
+Bootstrap
+JavaScript
