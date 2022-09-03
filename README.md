@@ -4,7 +4,7 @@
 ##### Frontend: JavaScript + CSS + HTML.
 #### This project has 11 tasks divided into 4 Sprints
 #### Each Sprint will have a demo and a retrospective at the end following the Scrum methodology
-### Task 1: Design your App Wireframes
+### Task 1: Designing App Wireframes
 ##### The objective of this task is to design the application's wireframes in order to have a better understanding of how the application will work and look.
 ### Task 2: Create the About Us page using HTML 5 and Bootstrap.
 
@@ -19,7 +19,7 @@ DueDate,
 Status
 
 ##### Tools
-HTML5
+HTML5,
 Bootstrap
 
 ### Task 4: Adding Tasks
@@ -35,6 +35,6 @@ Description:
 Implement a form that captures the fields required to create a task.
 
 ##### Tools
-HTML5
-Bootstrap
+HTML5,
+Bootstrap,
 JavaScript
