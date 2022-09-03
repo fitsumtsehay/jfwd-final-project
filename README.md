@@ -1,4 +1,4 @@
-### The project plan is to design vacation rental website with the following layers:
+### The project plan is to design vacation rental application with the following layers:
 ##### Persistence: MySQL Database.
 ##### Backend: REST API with Java and Spring Boot.
 ##### Frontend: JavaScript + CSS + HTML.
