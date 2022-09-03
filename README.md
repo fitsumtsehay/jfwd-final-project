@@ -13,9 +13,9 @@
 Implement the card layout bootstrap component that contains the task information:
 
 Name. 
-Description. 
-AssignedTo. 
-DueDate. 
+Description, 
+AssignedTo, 
+DueDate, 
 Status
 
 ##### Tools
