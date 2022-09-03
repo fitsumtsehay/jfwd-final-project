@@ -25,3 +25,7 @@ Bootstrap
 ### Task 4: Adding Tasks
 Description:
 Creating a class to manage the tasks, adding a method to the class to keep track of tasks in the  application, and connecting the New Task form to create tasks.
+
+### Task 5: Display The Tasks
+Description:
+Writing the code to display the TaskManager's tasks array on the page
