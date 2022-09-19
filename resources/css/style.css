@@ -1,0 +1,204 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pad-vertical {
+	padding: 0px 0;
+}
+.center {
+    font-size: 14px;
+}
+.ms-container {
+	padding: 30px 0;
+}
+.booking{
+  margin: 0 20 50px auto;
+  color: #222;
+  font-weight: 700;
+  font-size: 1.3em;
+  margin: 1em 0 0.125em;
+  text-align: center;
+  font-family: Georgia, serif;
+
+}
+.page_titel{
+padding-bottom: 0em;
+margin-bottom: 0em;
+margin-top: 6Opx;    
+}
+.ms-line {
+	padding: 0px;
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+	position: relative;
+	display: block;
+}
+
+.container{
+    text-align: center;
+    padding: 0;
+}
+
+.steps{
+    font-style: normal;
+    color:dark;
+	font-size: 10px;
+}
+.ms-mid {
+	background-color: #edf0f4;
+	border-radius: 100%;
+	width: 90%;
+	height: 90%;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0px;
+	margin: auto;
+	position: absolute;
+}
+
+
+
+.ms-container {
+	text-align: center;
+}
+
+.ms-container h2 {
+	font-size: 14px;
+	padding-top: 15px;
+    color: black;
+}
+
+.ms-container p {
+	font-size: 16px;
+	padding-top: 13px;
+    color: #99a0a6;
+    font-weight: bolder;
+}
+
+.ms-btn {
+	display: block;
+	border: 1px solid #00AEF0;
+	color: #fff;
+	background: #00AEF0;
+	padding: 10px 10px;
+	border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 10px;
+	font-weight: bold;
+	margin-top: 0px;
+    
+	
+}
+.ms-btn:hover {
+	color: #fff;
+    background: #0069d9;
+}
+
+/*Testimonials*/
+.testimonials-clean {
+    color:#313437;
+    background-color:#fff;
+  }
+  
+  .testimonials-clean p {
+    color:#7d8285;
+    text-align: justify;
+  }
+  
+  .testimonials-clean h2 {
+    font-weight:bold;
+    margin-bottom:40px;
+    padding-top:20px;
+    color:inherit;
+  }
+  
+  @media (max-width:767px) {
+    .testimonials-clean h2 {
+      margin-bottom:25px;
+      padding-top:25px;
+      font-size:24px;
+    }
+  }
+  
+  .testimonials-clean .intro {
+    font-size:16px;
+    max-width:500px;
+    margin:0 auto;
+  }
+  
+  .testimonials-clean .intro p {
+    margin-bottom:0;
+    
+  }
+  
+  .testimonials-clean .people {
+    padding:50px 0 20px;
+  }
+  
+  .testimonials-clean .item {
+    margin-bottom:32px;
+  }
+  
+  @media (min-width:768px) {
+    .testimonials-clean .item {
+      height:220px;
+    }
+  }
+  
+  .testimonials-clean .item .box {
+    padding:20px 20px 20px;
+    background-color:#eef4f7;
+    position:relative;
+    margin-right: 2em;
+    font: 1em sans-serif;
+  }
+  
+  .testimonials-clean .item .box:after {
+    content:'';
+    position:absolute;
+    left:30px;
+    bottom:-24px;
+    width:0;
+    height:0;
+    border:15px solid transparent;
+    border-width:12px 15px;
+    border-top-color:#eef4f7;
+  }
+  .center {
+      text-align: center;
+      
+  }
+  .testimonials-clean .item .author {
+    margin-top:20px;
+    padding-left:25px;
+  }
+  
+  .testimonials-clean .item .name {
+    font-weight:bold;
+    margin-bottom:2px;
+    color:inherit;
+   
+  }
+  
+  .testimonials-clean .item .title {
+    font-size:13px;
+    color:#9da9ae;
+    text-align: left;
+  }
+  
+  .testimonials-clean .item .description {
+    font-size:15px;
+    margin-bottom:0;
+  }
+  
+  .testimonials-clean .item img {
+    max-width:40px;
+    float:left;
+    margin-right:12px;
+    margin-top:-5px;
+  }
+  
+  
